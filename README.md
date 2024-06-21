@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data science projects 
-- 📫 How to reach me: robert.xu@wur.nl
+- 📫 How to reach me: xuyangsen@icloud.com
 
 <!---
 Seoyangsam/Seoyangsam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
